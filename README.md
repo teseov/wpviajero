@@ -1,0 +1,2 @@
+# wpviajero
+Theme de WordPress
